@@ -1,6 +1,4 @@
-## ![갤럭시 제트 플립3 외부화면 gif(움짤) 추천, 짤털](https://blog.kakaocdn.net/dn/cUo7vW/btrdXyoTdkI/2wa0O6pJfoE3Xvlskdm5L1/img.gif)
-
-## 안녕 난 홍법! 👋
+## 안녕하세요! 👋
 
 <!--
 **Hongbeob/Hongbeob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
